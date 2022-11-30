@@ -8,13 +8,16 @@ int main()
 {
 	list<const char*>stations =
 	{
-		"Shinagawa","Tamachi",
-		"Hamamatsucho",
-		"Shinbashi","Yurakucho",
 		"Tokyo","Kanda","Akihabara",
-		"Okachimachi","Ueno",
-		"Uguisudani","Nippori",
-		"Tabata"
+		"Okachimachi","Ueno","Uguisudani",
+		"Nippori","Tabata","Komagome",
+		"Sugamo","Otsuka","Ikebukuro",
+		"Mejiro","Takadanobaba","Shin-Okubo",
+		"Shinjuku","Yoyogi","Harajuku",
+		"Shibuya","Ebisu","Meguro",
+		"Gotanda","Osaki","Shinagawa",
+		"Tamachi","Hamamatsucho","Shimbashi",
+		"Yurakucho"
 	};
 
 
